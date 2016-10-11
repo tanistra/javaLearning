@@ -1,6 +1,7 @@
 package com.testproject.koty.domain;
 
 import java.util.Date;
+import java.util.Scanner;
 
 /**
  * Created by jtanistra on 2016-10-05.
